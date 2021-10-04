@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyManagerApp</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="quick_actions">Quick actions</string>
+    <string name="card_title1">Create New Event</string>
+    <string name="card_title2">Add New Memory</string>
+    <string name="card_title3">Create New Goal</string>
+    <string name="card_title4">Add New Transaction</string>
+    <string name="username">Nirasha Jayasiri</string>
+</resources>
